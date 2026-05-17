@@ -1,9 +1,9 @@
 # 💫 About Me:
-[cite_start]I am a **Software Engineer (Backend & Full Stack)** graduated from **İnönü University** with a degree in Computer Engineering[cite: 2, 41, 42]. [cite_start]I have professional experience in designing, building, and optimizing end-to-end software solutions, ranging from system architecture to user interface development[cite: 3, 6].
+I am a **Software Engineer (Backend & Full Stack)** graduated from **İnönü University** with a degree in Computer Engineering[cite: 2, 41, 42]. [cite_start]I have professional experience in designing, building, and optimizing end-to-end software solutions, ranging from system architecture to user interface development[cite: 3, 6].
 
-* [cite_start]🛠️ **Expertise:** Developing high-performance API services, business logic implementation, and advanced database optimization[cite: 5, 14, 16, 24].
-* [cite_start]🚀 **Experience:** Proven track record in building Enterprise Modular HR Management Systems and large-scale government projects (Ministry of Trade)[cite: 12, 14, 20, 23].
-* [cite_start]🎯 **Focus:** Analyzing production environment issues, making permanent system improvements, and quickly adapting to modern tech stacks[cite: 7, 8].
+* 🛠️ **Expertise:** Developing high-performance API services, business logic implementation, and advanced database optimization[cite: 5, 14, 16, 24].
+* 🚀 **Experience:** Proven track record in building Enterprise Modular HR Management Systems and large-scale government projects (Ministry of Trade)[cite: 12, 14, 20, 23].
+* 🎯 **Focus:** Analyzing production environment issues, making permanent system improvements, and quickly adapting to modern tech stacks[cite: 7, 8].
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/funda-ordek/) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/fundaordek) [![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white)](https://fundaordek.com)
